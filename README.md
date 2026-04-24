@@ -15,8 +15,6 @@ sudo make install
 ```
 
 - Use
-
-Now it can be used in any C project:
 ```c
 #include <sbl.h>
 
