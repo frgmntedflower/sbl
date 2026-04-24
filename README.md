@@ -7,7 +7,7 @@ A single header suckless baselayer for C99 projects
 git clone https://github.com/frgmntedflower/sbl.git
 ```
 
-- Build
+- Build / Install
 ```bash
 cd sbl
 make
