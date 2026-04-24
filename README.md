@@ -1,2 +1,2 @@
 # sbl
-Simple (suckless) baselayer for C projects.
+Suckless baselayer for C99 projects 
