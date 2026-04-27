@@ -1,6 +1,10 @@
 #ifndef SBL_H
 #define SBL_H
 
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+
 /* Exit */
 #define DIE(msg) \
     do { \
