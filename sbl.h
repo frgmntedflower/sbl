@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <errno.h>
+#include <ctype.h>
 
 /* Exit */
 #define DIE(msg) \
@@ -20,5 +21,8 @@
     DIE(err_msg); \
   } \
 } while (0)
+
+
+char* ltrim(char* s);
 
 #endif // SBL_H
